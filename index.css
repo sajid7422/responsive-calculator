@@ -1,0 +1,249 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+        @media screen and (min-width: 2000px) and (max-width: 2560px){
+
+            .main{
+                display: grid !important;
+                justify-content: center !important;
+                background-color: #191A1C !important;
+            
+            }
+            input{
+                height: 330px !important;
+                width: 1300px !important;
+                border: transparent !important;
+                border-radius: 5px !important;
+                background-color: #191A1C !important;
+                color: black !important;
+                font-size: 60px !important;
+                background-color: white !important;
+                margin-top: 60px !important;
+                margin-bottom: 8px;
+            }
+            button{
+                width: 316px !important;
+                height: 95px !important;
+                border: transparent !important;
+                border-radius: 5px !important;
+                margin: 3px 3px !important;
+                cursor: pointer !important;
+                font-size: 50px;
+            }
+            #ac, #add, #percent{
+                background-color: #B0B2B3 !important;
+                color: white !important;
+            }
+            #devided, #equal, #plus, #subtract, #multiply{
+                background-color: #E79127 !important;
+                color: white !important;    
+            }
+            
+            #equal{
+                width: 642px !important;
+            
+            }
+            h1{
+                color: white !important;
+                
+            }
+            
+        }
+        @media screen and (min-width: 1500px) and (max-width: 2000px){
+
+            .main{
+                display: grid !important;
+                justify-content: center !important;
+                background-color: #191A1C !important;
+            
+            }
+            input{
+                height: 270px !important;
+                width: 1100px !important;
+                border: transparent !important;
+                border-radius: 5px !important;
+                background-color: #191A1C !important;
+                color: black !important;
+                font-size: 60px !important;
+                background-color: white !important;
+                margin-top: 25px !important;
+                margin-bottom: 8px;
+            }
+            button{
+                width: 267px !important;
+                height: 70px !important;
+                border: transparent !important;
+                border-radius: 5px !important;
+                margin: 5px 3px !important;
+                cursor: pointer !important;
+                font-size: 35px;
+            }
+            #ac, #add, #percent{
+                background-color: #B0B2B3 !important;
+                color: white !important;
+            }
+            #devided, #equal, #plus, #subtract, #multiply{
+                background-color: #E79127 !important;
+                color: white !important;    
+            }
+            
+            #equal{
+                width: 543px !important;
+            
+            }
+            h1{
+                color: white !important;
+                
+            }
+        }
+
+        @media screen and (min-width: 1300px) and (max-width: 1500px){
+
+            .main{
+                display: grid !important;
+                justify-content: center !important;
+                background-color: #191A1C !important;
+            
+            }
+            input{
+                height: 290px !important;
+                width: 710px !important;
+                border: transparent !important;
+                border-radius: 5px !important;
+                background-color: #191A1C !important;
+                color: black !important;
+                font-size: 60px !important;
+                background-color: white !important;
+                margin-top: 50px !important;
+                margin-bottom: 10px;
+            }
+            button{
+                width: 170px !important;
+                height: 98px !important;
+                border: transparent !important;
+                border-radius: 5px !important;
+                margin: 6px 3px !important;
+                cursor: pointer !important;
+                font-size: 35px;
+            }
+            #ac, #add, #percent{
+                background-color: #B0B2B3 !important;
+                color: white !important;
+            }
+            #devided, #equal, #plus, #subtract, #multiply{
+                background-color: #E79127 !important;
+                color: white !important;    
+            }
+            
+            #equal{
+                width: 349px !important;
+            
+            }
+            h1{
+                color: white !important;
+                
+            }
+            
+        }
+        @media screen and (min-width:700px) and (max-width: 1300px){
+
+            .main{
+                display: grid !important;
+                justify-content: center !important;
+                background-color: #191A1C !important;
+            
+            }
+            input{
+                height: 260px !important;
+                width: 680px !important;
+                border: transparent !important;
+                border-radius: 5px !important;
+                background-color: #191A1C !important;
+                color: black !important;
+                font-size: 60px !important;
+                background-color: white !important;
+                margin-top: 90px !important;
+                margin-bottom: 12px;
+            }
+            button{
+                width: 162px !important;
+                height: 95px !important;
+                border: transparent !important;
+                border-radius: 5px !important;
+                margin: 6px 3px !important;
+                cursor: pointer !important;
+                font-size: 35px;
+            }
+            #ac, #add, #percent{
+                background-color: #B0B2B3 !important;
+                color: white !important;
+            }
+            #devided, #equal, #plus, #subtract, #multiply{
+                background-color: #E79127 !important;
+                color: white !important;    
+            }
+            
+            #equal{
+                width: 335px !important;
+            
+            }
+            h1{
+                color: white !important;
+                
+            }
+            
+        }
+        @media screen and (min-width: 300px) and (max-width: 699px){
+
+            .main{
+                display: grid !important;
+                justify-content: center !important;
+                background-color: #191A1C !important;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            
+            }
+            input{
+                height: 190px !important;
+                width: 300px !important;
+                border: transparent !important;
+                border-radius: 5px !important;
+                background-color: #191A1C !important;
+                color: black !important;
+                font-size: 60px !important;
+                background-color: white !important;
+                margin-top: 180px !important;
+                margin-bottom: 15px;
+            }
+            button{
+                width: 70px !important;
+                height: 90px !important;
+                border: transparent !important;
+                border-radius: 5px !important;
+                margin: 6px 1px !important;
+                cursor: pointer !important;
+                font-size: 20px;
+            }
+            #ac, #add, #percent{
+                background-color: #B0B2B3 !important;
+                color: white !important;
+            }
+            #devided, #equal, #plus, #subtract, #multiply{
+                background-color: #E79127 !important;
+                color: white !important;    
+            }
+            
+            #equal{
+                width: 147px !important;
+            
+            }
+            h1{
+                color: white !important;
+                
+            }
+            
+        }
+    
+       
